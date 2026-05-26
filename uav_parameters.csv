@@ -1,0 +1,7 @@
+parameter,value,note
+battery_capacity_wh,260.0,Estimated battery capacity
+average_speed_kmh,38.0,Average flight speed
+cruise_power_w,185.0,Estimated cruise power
+hover_power_w,225.0,Estimated hover/task power
+safety_reserve_percent,20.0,Battery reserve kept for safety
+risk_penalty_weight,2.5,Weight used in route scoring

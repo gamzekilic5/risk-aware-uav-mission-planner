@@ -1,0 +1,4 @@
+zone,center_x_km,center_y_km,radius_km,risk_score,note
+Restricted_Area_1,2.2,2.1,0.7,8,Restricted area to avoid
+High_Risk_Area_2,4.4,2.8,0.8,6,Higher operational risk area
+Communication_Risk_3,1.7,4.2,0.6,4,Possible communication weakness
